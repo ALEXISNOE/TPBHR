@@ -1,0 +1,33 @@
+Alerta: Se recomienda nombres mayores a 5 caracteres
+Alerta: Se recomienda utilizar multiplos de 40GB.
+Resumen:
+Nombre  : VM1
+CPU     : 1
+Memoria : 1024
+OS      : Ubuntu
+Estado  : Apagado
+ID      : 5cb5b21c-a68a-4402-a039-2cbe192a536d
+NICs    : 2
+HDDs    : 2(220 GB)
+
+Detallado NICs:
+Etiqueta: Network Card 1
+Unidad    : 1
+MAC       : 45:9B:C3:AC:3D:B9
+Network   : 122.22.22.22
+Velocidad : 100Mbps
+
+Etiqueta: Network Card 2
+Unidad    : 2
+MAC       : E5:35:F9:03:3E:93
+Network   : 133.33.33.33
+Velocidad : 1000Mbps
+
+Detallado HDDs:
+Etiqueta : Hard Disk 1
+Unidad   : 1
+Capacidad: 100GB
+
+Etiqueta : Hard Disk 2
+Unidad   : 2
+Capacidad: 120GB

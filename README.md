@@ -30,3 +30,4 @@ Se desarrolla en lenguaje JAVA utilizando la plataforma Eclipse 2018 con el paqu
 
 
 Finalmente, el desarrollo de clases de testeos del modelo se llevará a cabo a través de JUnit test cases.
+
